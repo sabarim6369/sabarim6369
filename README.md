@@ -4,8 +4,11 @@
 
 🔹 **MERN | React Native | NestJS | GraphQL | AWS | Cybersecurity | LeetCode**  
 
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/%E2%96%BA%20Click%20to%20Expand-007bff?style=for-the-badge&logo=github&logoColor=white" alt="Click to Expand"></a>
+</p>
 <details>  
-  <summary>📌 **Notable Projects & Achievements** (Click to Expand)</summary>  
+
 
   ### 💼 **Freelance Projects**  
   ✅ **Sokkai** – Clothing e-commerce platform with Razorpay integration.  <br>  
