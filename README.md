@@ -15,19 +15,16 @@
 💻 C++ & Data Structures – Solving LeetCode challenges daily.
 
 📌 Notable Projects:
-💼 Freelance Projects
-Sokkai – A clothing e-commerce platform with Razorpay integration. (Freelance)
+💼 Freelance Projects :
+      Sokkai – A clothing e-commerce platform with Razorpay integration. (Freelance)
+      Lead Management System – A platform to track staff assignments and call durations. (Freelance)
+      Thoughts App – A React Native mobile app for users to share and store thoughts. (Freelance)
+      4Trip App – A travel booking and management app for seamless trip planning. (Freelance)
 
-Lead Management System – A platform to track staff assignments and call durations. (Freelance)
+🎯 Other Projects:
+      Feedback Management System – A platform for students to provide structured feedback to teachers, with anonymous and non-anonymous modes.
 
-Thoughts App – A React Native mobile app for users to share and store thoughts. (Freelance)
-
-4Trip App – A travel booking and management app for seamless trip planning. (Freelance)
-
-🎯 Other Projects
-Feedback Management System – A platform for students to provide structured feedback to teachers, with anonymous and non-anonymous modes.
-
-Event Management System – A system for organizing and managing college events.
+      Event Management System – A system for organizing and managing college events.
 
 
 🏆 Achievements:
