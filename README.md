@@ -36,5 +36,5 @@
 
 ## 📬 Let's Connect!  
 💻 **GitHub** → [github.com/sabarim6369](https://github.com/sabarim6369)  <br>  
-📝 **Portfolio** → [finalportfolio-seven.vercel.app](https://finalportfolio-seven.vercel.app/)  <br>  
+📝 **Portfolio** → [https://portfolio-phi-nine-84.vercel.app/](https://portfolio-phi-nine-84.vercel.app/)  <br>  
 📧 **Email** → [sabarim6369@gmail.com](mailto:sabarim6369@gmail.com)  <br>  
