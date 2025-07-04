@@ -1,4 +1,4 @@
-# 🚀 Sabari | MERN & React Native Developer  
+# 🚀 Sabari | MERN Stack, React Native & Vue.js Developer
 
 👋 Hey there! I'm Sabari, a **Full-Stack Developer** specializing in **MERN & React Native**, building **scalable web & mobile apps** with a focus on **performance, UX, & security**.  
 
