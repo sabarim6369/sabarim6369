@@ -2,7 +2,7 @@
 
 👋 Hey there! I'm Sabari, a **Full-Stack Developer** specializing in **MERN & React Native**, building **scalable web & mobile apps** with a focus on **performance, UX, & security**.  
 
-🔹 **MERN | React Native | NestJS | GraphQL | AWS | Cybersecurity | LeetCode**  
+🔹 **MERN | React Native | NestJS | GraphQL | Springboot | AWS  | LeetCode**  
 
 <br>
 
