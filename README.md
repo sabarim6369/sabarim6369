@@ -1,9 +1,23 @@
-<!-- Profile Header -->
-<h1 align="center">🚀 Sabari M</h1>
-<h3 align="center">💻 MERN Stack & React Native Developer | Competitive Programmer</h3>
+<!-- Fancy Animated Header -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> 
+  <span style="font-size:40px; font-weight:bold; background: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%); -webkit-background-clip: text; color: transparent;">
+    Sabari M
+  </span>
+</h1>
+
+<h3 align="center">
+  🚀 MERN Stack & React Native Developer | Competitive Programmer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;MERN+Stack+Specialist;React+Native+Mobile+App+Developer;Competitive+Programmer;Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;MERN+Stack+Specialist;React+Native+Mobile+App+Developer;Competitive+Programmer;Open-Source+Contributor;Always+Learning+New+Things!"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sabarim6369">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/blob/main/assets/animated-banner.gif" width="80%"/>
+  </a>
 </p>
 
 ---
