@@ -70,30 +70,169 @@
 ---
 
 ## 📌 Notable Projects & Achievements  
+## 🚀 Featured Projects  
+
+<p align="center">
+  ✨ A collection of my most impactful Freelance, Internship, and Personal projects  
+</p>
+
+---
+
+### 💼 Freelance Projects
 
 <details>
-  <summary>💼 <b>Freelance Projects</b></summary>
-  
-  - 🛍️ **Sokkai** – Clothing e-commerce platform with Razorpay integration  
-  - 📞 **Lead Management System** – Staff assignment & call tracking  
-  - 📝 **Thoughts App** – React Native app for storing thoughts  
-  - ✈️ **4Trip App** – Travel booking & trip management platform  
+  <summary><b>📊 Lead Flow CRM</b> – Lead Management & Call Monitoring</summary>
+  <br/>
+  🔹 Role-based dashboards (Superadmin, Admin, Telecaller)  
+  🔹 Real-time call monitoring (Twilio)  
+  🔹 Advanced analytics & performance tracking  
+
+  **Tech:** React.js • Node.js • Express • MongoDB • Twilio  
+  <br/>
+  🔗 [Live Demo](https://aws-leadmanagementsystem.vercel.app/login) | [GitHub](https://github.com/sabarim6369/AWS_Leadmanagementsystem.git)  
 </details>
 
 <details>
-  <summary>🎯 <b>Other Projects</b></summary>
-  
-  - 📊 **Feedback Management System** – Anonymous & non-anonymous feedback for teachers  
-  - 🎉 **Event Management System** – College event tracking & coordination  
+  <summary><b>🛍️ SOKKAI – Clothing E-commerce</b></summary>
+  <br/>
+  🔹 Secure payments with Razorpay  
+  🔹 Order management & inventory control  
+  🔹 Responsive modern UI  
+
+  **Tech:** Next.js • MongoDB • Razorpay  
+  <br/>
+  🔗 [Live Demo](https://sokkaifinal.vercel.app/) | [GitHub](https://github.com/sabarim6369/sokkaifinal.git)  
 </details>
 
 <details>
-  <summary>🏆 <b>Achievements</b></summary>
-  
-  - 🥉 **Legend of Hack Award – HACK 24 KANAM 2K25** (3rd Place)  
-  - 🏅 **Smart India Hackathon Finalist**  
-  - 💼 **Full-Stack Internship @ Ramoex Technologies**  
+  <summary><b>📦 Milver – Milk Transport System</b></summary>
+  <br/>
+  🔹 Driver allocation & delivery logs  
+  🔹 Route optimization & real-time tracking  
+  🔹 Admin dashboard for trip management  
+
+  **Tech:** React • Node.js • Express • MongoDB  
+  <br/>
+  🔗 [Live Demo](https://milver-alpha.vercel.app/) | [GitHub](https://github.com/Dharanish-AM/MILVER.git)  
 </details>
+
+<details>
+  <summary><b>✈️ 4Trip – Travel Planning & Booking</b></summary>
+  <br/>
+  🔹 Custom itineraries & booking system  
+  🔹 Integrated Maps & Weather APIs  
+  🔹 Cross-platform mobile support  
+
+  **Tech:** React Native • Node.js • Express • MongoDB • AWS  
+  <br/>
+  🔗 [Play Store](https://play.google.com/store/apps/details?id=com.vijayguhan.fourtrip) | [GitHub](https://github.com/vijayguhan10/trip.git)  
+</details>
+
+<details>
+  <summary><b>🛒 Alkarmah – Multilingual E-commerce</b></summary>
+  <br/>
+  🔹 Arabic + English (RTL support)  
+  🔹 Firebase push notifications  
+  🔹 Real-time product/order management  
+
+  **Tech:** React Native • Redux • Node.js • Express • MongoDB • Firebase  
+  <br/>
+  🔗 [GitHub](https://github.com/vijayguhan10/Alkaramh.git)  
+</details>
+
+---
+
+### 🎓 Internship Projects
+
+<details>
+  <summary><b>📚 RMS – Product Training Platform</b></summary>
+  <br/>
+  🔹 Role-based access (Admin, Trainer, Student)  
+  🔹 Trainer panel for batch/session mgmt  
+  🔹 Performance reviews & material upload  
+
+  **Tech:** React.js • Node.js • Express.js • MongoDB  
+  <br/>
+  🔗 [GitHub](https://github.com/RAMPeXTechnologies/RAMPeX-Management-System.git)  
+</details>
+
+<details>
+  <summary><b>📝 FeedEase – Feedback Management</b></summary>
+  <br/>
+  🔹 Anonymous & Named feedback sessions  
+  🔹 Admin panel with analytics  
+  🔹 Secure token-based session validation  
+
+  **Tech:** React • Node.js • Express • MongoDB • JWT • TailwindCSS  
+  <br/>
+  🔗 [Live Demo](https://feedback-management-iota.vercel.app/) | [GitHub](https://github.com/sabarim6369/feedback_management.git)  
+</details>
+
+---
+
+### 🌟 Personal Projects  
+
+<details>
+  <summary><b>📱 THOTS – Social Polling App</b></summary>
+  <br/>
+  🔹 Poll feeds like reels  
+  🔹 Real-time opinion sharing  
+  🔹 Cross-platform mobile  
+
+  **Tech:** React Native • Node.js • Express • MongoDB  
+  <br/>
+  🔗 [Live Demo](https://drive.google.com/drive/folders/1Zc97FZM0yqXA5UzLIjlR_WDq7tbVkk1v?usp=sharing) | [GitHub](https://github.com/sabarim6369/Thoughtsapp.git)  
+</details>
+
+<details>
+  <summary><b>🖥️ LumaAccess-V1 – Remote Device Control</b></summary>
+  <br/>
+  🔹 Remote shutdown/restart/lock  
+  🔹 WebRTC live screen streaming  
+  🔹 Electron desktop agent  
+
+  **Tech:** React Native • Node.js • Express • MongoDB • AWS • Electron • WebRTC  
+  <br/>
+  🔗 [Live Demo](https://lumaaccess.vercel.app/) | [GitHub](https://github.com/sabarim6369/lumaaccess-client.git)  
+</details>
+
+<details>
+  <summary><b>🤖 AlgoGit – Chrome Extension for GitHub Auto-Commits</b></summary>
+  <br/>
+  🔹 Auto-captures coding submissions  
+  🔹 LLM-generated commit messages  
+  🔹 Organized DSA portfolio  
+
+  **Tech:** JS • Spring Boot • MongoDB • LLM API • Chrome Ext APIs  
+  <br/>
+  🔗 [GitHub](https://github.com/sabarim6369/AlgoGit.git)  
+</details>
+
+<details>
+  <summary><b>🎯 JobSy – AI Career Assistant</b></summary>
+  <br/>
+  🔹 Resume parsing + ATS scoring  
+  🔹 AI Cover Letter Generator  
+  🔹 Mock Interview Simulations  
+
+  **Tech:** React • FastAPI • LangChain • LLaMA3 • MongoDB  
+  <br/>
+  🔗 [GitHub](https://github.com/sabarim6369/Jobsy.git)  
+</details>
+
+<details>
+  <summary><b>🔒 Certaura – Secure Lab Exam Platform</b></summary>
+  <br/>
+  🔹 Kiosk mode with AHK key blocking  
+  🔹 Centralized monitoring  
+  🔹 Live activity tracking  
+
+  **Tech:** React • Node.js • MongoDB • Electron • WebSocket • AHK  
+  <br/>
+  🔗 [Live Demo](https://certaura.vercel.app/) | [GitHub](https://github.com/sabarim6369/Certaura-Client.git)  
+</details>
+
+---
 
 ---
 
