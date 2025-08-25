@@ -23,19 +23,19 @@
 ---
 
 ## 👋 About Me  
+
 - ⚡ Full-Stack Developer in **MERN, React Native & .NET WebAPI**  
 - ☁️ Cloud & DevOps with **AWS, Docker & CI/CD pipelines**  
 - 🤖 Exploring **LangChain & AI-powered apps**  
 - 🌍 Building scalable **Web & Mobile Apps** with a focus on **Performance, UX & Security**  
 - 🌱 Currently learning **Advanced DevOps, TypeScript & NestJS**  
-- 🎯 Passionate about **Open Source, Competitive Programming & AI/ML Systems**
+- 🎯 Passionate about **Open Source, Competitive Programming & AI/ML Systems**  
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -69,7 +69,6 @@
 
 ---
 
-## 📌 Notable Projects & Achievements  
 ## 🚀 Featured Projects  
 
 <p align="center">
@@ -78,7 +77,7 @@
 
 ---
 
-### 💼 Freelance Projects
+### 💼 Freelance Projects  
 
 <details>
   <summary><b>📊 Lead Flow CRM</b> – Lead Management & Call Monitoring</summary>
@@ -142,7 +141,7 @@
 
 ---
 
-### 🎓 Internship Projects
+### 🎓 Internship Projects  
 
 <details>
   <summary><b>📚 RMS – Product Training Platform</b></summary>
@@ -231,8 +230,6 @@
   <br/>
   🔗 [Live Demo](https://certaura.vercel.app/) | [GitHub](https://github.com/sabarim6369/Certaura-Client.git)  
 </details>
-
----
 
 ---
 
