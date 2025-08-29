@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <!-- Added Golang -->
 
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -60,8 +61,11 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 
-  <!-- AI & Tools -->
+  <!-- AI & LLM Tools -->
   <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6D00?style=for-the-badge&logo=python&logoColor=white"/> <!-- Added LangGraph -->
+  <img src="https://img.shields.io/badge/LangServe-0D9488?style=for-the-badge&logo=python&logoColor=white"/> <!-- Added LangServe -->
+  <img src="https://img.shields.io/badge/LangSmith-7C3AED?style=for-the-badge&logo=python&logoColor=white"/> <!-- Added LangSmith -->
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
