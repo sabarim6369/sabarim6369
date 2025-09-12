@@ -7,7 +7,9 @@
 </h1>
 
 <h3 align="center">
-  💻 MERN Stack & React Native Developer | .NET WebAPI | AWS & DevOps | LangChain Enthusiast
+<!--   💻 MERN Stack & React Native Developer | .NET WebAPI | AWS & DevOps | LangChain Enthusiast -->
+💻 MERN Stack & React Native Developer | AWS & DevOps | LangChain Enthusiast
+  
 </h3>
 
 <p align="center">
