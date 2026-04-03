@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Associate%20SWE%20Intern%20(Incoming)-00C2FF?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Based_In-Chennai%2C%20India-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Based_In-Hyderabad%2C%20India-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI%2FML-92FE9D?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
