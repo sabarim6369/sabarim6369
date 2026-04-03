@@ -28,22 +28,23 @@
 
 ```ts
 const sabari = {
-  role      : "Associate Software Engineer Intern (Incoming) 🎉",
-  stack     : ["MERN", "React Native", "FastAPI", "Spring Boot", "Next.js"],
-  ai_ml     : ["LangChain", "LangGraph", "RAG", "Fine-Tuning CNNs", "LLM Integration"],
-  cloud     : ["AWS", "Docker", "CI/CD", "Jenkins"],
-  currently : "Deepening expertise in AI/ML systems & scalable backend architectures",
-  passion   : "Building products that are fast, intelligent, and actually useful",
+  role        : "Associate Software Engineer Intern (Incoming) 🎉",
+  stack       : ["MERN", "React Native", "FastAPI", "Spring Boot", ".NET Core WebAPI", "Next.js"],
+  ai_ml       : ["LLM Fine-Tuning (LoRA, QLoRA, Unsloth)", "Agentic AI", "RAG Pipelines",
+                 "LangChain", "LangGraph", "CNN Fine-Tuning", "Hugging Face"],
+  cloud       : ["AWS", "Docker", "CI/CD", "Jenkins"],
+  currently   : "Building agentic AI systems & mastering LLM fine-tuning techniques",
+  passion     : "Building products that are fast, intelligent, and actually useful",
 };
 ```
 
 - 🚀 **Incoming** Associate Software Engineer Intern — excited and ready to ship!
-- 🧠 Passionate about **AI/ML** — from LLM-powered apps to fine-tuned vision models
-- 🔧 Full-stack at heart: MERN, FastAPI, Spring Boot, Electron, you name it
+- 🧠 Deep into **AI/ML** — LLM fine-tuning with **LoRA, QLoRA & Unsloth**, CNN fine-tuning for vision tasks
+- 🤖 Building **Agentic AI** systems using **LangGraph**, multi-agent orchestration & tool-calling workflows
+- 🔧 Full-stack at heart: MERN, FastAPI, Spring Boot, .NET Core WebAPI, Electron
 - 📱 Cross-platform experience with **React Native** (Play Store published!)
 - ☁️ Comfortable in cloud: **AWS, Docker, CI/CD pipelines**
-- 🤖 Hands-on with **LangChain, LangGraph, RAG pipelines, Groq, Ollama, OpenAI**
-- 🧬 Deep Learning background — medical imaging with fine-tuned **ResNet/VGG CNNs**
+- 🔗 Hands-on with **LangChain, LangGraph, RAG pipelines, Groq, Ollama, OpenAI**
 - 🌱 Currently leveling up: **NestJS, TypeScript, Advanced MLOps**
 
 ---
@@ -76,7 +77,8 @@ const sabari = {
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET_WebAPI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_Core_WebAPI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/gRPC-339933?style=for-the-badge&logo=grpc&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
@@ -102,198 +104,31 @@ const sabari = {
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
 </p>
 
-### 🤖 AI / ML & LLM Tools
+### 🤖 AI / ML & LLM
 <p>
   <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/LangGraph-FF6D00?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangServe-0D9488?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangSmith-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-FF4500?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-00C2FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-92FE9D?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LoRA-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QLoRA-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unsloth-1E90FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fine--Tuning_LLMs-764ABC?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fine--Tuning_CNNs-6DB33F?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Groq-FF4500?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ollama-1E90FF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-00C2FF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fine--Tuning%20CNNs-764ABC?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI / ML Projects
-
-<details>
-  <summary><b>🎯 JobSy – AI Career Assistant</b></summary>
-  <br/>
-  🔹 Resume parsing with ATS scoring & section-level improvement highlights<br/>
-  🔹 AI Cover Letter Generator (PDF export)<br/>
-  🔹 Mock Interview Engine — resume, JD, and domain-based question generation<br/>
-  🔹 Powered by LangChain + LLaMA3 via Groq<br/>
-
-  **Tech:** React • FastAPI • LangChain • LLaMA3 • MongoDB  
-  <br/>
-  🔗 [GitHub](https://github.com/sabarim6369/Jobsy.git)
-</details>
-
-<details>
-  <summary><b>🩺 Medical X-Ray Diagnosis – Deep Learning</b></summary>
-  <br/>
-  🔹 Fine-tuned ResNet & VGG on chest X-ray datasets<br/>
-  🔹 Augmentation pipelines to improve generalization<br/>
-  🔹 Optimized for reduced false negatives in clinical settings<br/>
-
-  **Tech:** Python • PyTorch • ResNet • VGG • Data Augmentation
-</details>
-
-<details>
-  <summary><b>🤖 AlgoGit – Chrome Extension for GitHub Auto-Commits</b></summary>
-  <br/>
-  🔹 Auto-captures coding submissions from competitive platforms<br/>
-  🔹 LLM-generated commit messages for context<br/>
-  🔹 Builds a clean, organized DSA portfolio automatically<br/>
-
-  **Tech:** JavaScript • Spring Boot • MongoDB • LLM API • Chrome Extension APIs  
-  <br/>
-  🔗 [GitHub](https://github.com/sabarim6369/AlgoGit.git)
-</details>
-
----
-
-### 🖥️ Full-Stack & Systems Projects
-
-<details>
-  <summary><b>🖥️ LumaAccess – Remote Device Control</b></summary>
-  <br/>
-  🔹 Remote shutdown, restart, lock & screenshot commands<br/>
-  🔹 WebRTC live screen streaming with Electron agent<br/>
-  🔹 WebSocket-connected, system tray UI, auto-launch<br/>
-
-  **Tech:** React • Node.js • Electron • WebRTC • WebSocket • AWS  
-  <br/>
-  🔗 [Live Demo](https://lumaaccess.vercel.app/) | [GitHub](https://github.com/sabarim6369/lumaaccess-client.git)
-</details>
-
-<details>
-  <summary><b>🔒 Certaura – Secure Lab Exam Platform</b></summary>
-  <br/>
-  🔹 Kiosk mode with AHK key blocking<br/>
-  🔹 Centralized monitoring & live activity tracking<br/>
-  🔹 WebSocket-based real-time control<br/>
-
-  **Tech:** React • Node.js • MongoDB • Electron • WebSocket • AHK  
-  <br/>
-  🔗 [Live Demo](https://certaura.vercel.app/) | [GitHub](https://github.com/sabarim6369/Certaura-Client.git)
-</details>
-
-<details>
-  <summary><b>📝 Digital Will Executor</b></summary>
-  <br/>
-  🔹 Encrypted will storage with chain-of-trust unlocking<br/>
-  🔹 Deadman's switch mechanism<br/>
-  🔹 Secure multi-step verification flow<br/>
-
-  **Tech:** Spring Boot • Vue.js • MongoDB
-</details>
-
-<details>
-  <summary><b>📚 Teacher Journal System</b></summary>
-  <br/>
-  🔹 Lesson note management with advanced filtering<br/>
-  🔹 Clean Next.js UI for educators<br/>
-
-  **Tech:** Next.js • MongoDB
-</details>
-
----
-
-### 💼 Freelance Projects
-
-<details>
-  <summary><b>📊 Lead Flow CRM</b> – Lead Management & Call Monitoring</summary>
-  <br/>
-  🔹 Role-based dashboards (Superadmin, Admin, Telecaller)<br/>
-  🔹 Real-time call monitoring with Twilio<br/>
-  🔹 Advanced analytics & performance tracking<br/>
-
-  **Tech:** React.js • Node.js • Express • MongoDB • Twilio  
-  <br/>
-  🔗 [Live Demo](https://aws-leadmanagementsystem.vercel.app/login) | [GitHub](https://github.com/sabarim6369/AWS_Leadmanagementsystem.git)
-</details>
-
-<details>
-  <summary><b>✈️ 4Trip – Travel Planning & Booking App</b></summary>
-  <br/>
-  🔹 Custom itineraries & booking system<br/>
-  🔹 Maps & Weather API integration<br/>
-  🔹 Published on Google Play Store<br/>
-
-  **Tech:** React Native • Node.js • Express • MongoDB • AWS  
-  <br/>
-  🔗 [Play Store](https://play.google.com/store/apps/details?id=com.vijayguhan.fourtrip) | [GitHub](https://github.com/vijayguhan10/trip.git)
-</details>
-
-<details>
-  <summary><b>🛍️ SOKKAI – Clothing E-commerce</b></summary>
-  <br/>
-  🔹 Secure payments with Razorpay<br/>
-  🔹 Order management & inventory control<br/>
-  🔹 Responsive modern UI<br/>
-
-  **Tech:** Next.js • MongoDB • Razorpay  
-  <br/>
-  🔗 [Live Demo](https://sokkaifinal.vercel.app/) | [GitHub](https://github.com/sabarim6369/sokkaifinal.git)
-</details>
-
-<details>
-  <summary><b>🛒 Alkarmah – Multilingual E-commerce (Arabic + English)</b></summary>
-  <br/>
-  🔹 Full RTL support for Arabic<br/>
-  🔹 Firebase push notifications<br/>
-  🔹 Real-time product & order management<br/>
-
-  **Tech:** React Native • Redux • Node.js • Express • MongoDB • Firebase  
-  <br/>
-  🔗 [GitHub](https://github.com/vijayguhan10/Alkaramh.git)
-</details>
-
-<details>
-  <summary><b>📦 Milver – Milk Transport System</b></summary>
-  <br/>
-  🔹 Driver allocation & delivery logs<br/>
-  🔹 Route optimization & real-time tracking<br/>
-
-  **Tech:** React • Node.js • Express • MongoDB  
-  <br/>
-  🔗 [Live Demo](https://milver-alpha.vercel.app/) | [GitHub](https://github.com/Dharanish-AM/MILVER.git)
-</details>
-
----
-
-### 🎓 Internship Projects
-
-<details>
-  <summary><b>📚 RMS – Product Training Platform</b></summary>
-  <br/>
-  🔹 Role-based access (Admin, Trainer, Student)<br/>
-  🔹 Batch & session management, performance reviews<br/>
-
-  **Tech:** React.js • Node.js • Express.js • MongoDB  
-  <br/>
-  🔗 [GitHub](https://github.com/RAMPeXTechnologies/RAMPeX-Management-System.git)
-</details>
-
-<details>
-  <summary><b>📝 FeedEase – Feedback Management</b></summary>
-  <br/>
-  🔹 Anonymous & named feedback sessions<br/>
-  🔹 Admin panel with analytics & secure token-based validation<br/>
-
-  **Tech:** React • Node.js • Express • MongoDB • JWT • TailwindCSS  
-  <br/>
-  🔗 [Live Demo](https://feedback-management-iota.vercel.app/) | [GitHub](https://github.com/sabarim6369/feedback_management.git)
-</details>
+> 🔬 **Fine-Tuning:** LoRA • QLoRA • Unsloth — full pipeline from dataset prep → training → GGUF export  
+> 🤖 **Agentic AI:** Multi-agent orchestration, tool-calling, memory & planning loops with LangGraph  
+> 🧬 **Vision ML:** Fine-tuned ResNet/VGG CNNs for medical imaging with augmentation pipelines
 
 ---
 
