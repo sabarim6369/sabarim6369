@@ -24,6 +24,17 @@
 
 ---
 
+- 🚀 **Incoming Associate SWE Intern** — passionate about building impactful products
+- 🧠 Deep into **AI/ML** — LLM fine-tuning (LoRA, QLoRA, Unsloth), CNNs for vision
+- 🤖 Building **Agentic AI**: LangGraph, multi-agent orchestration, tool-calling
+- 🔧 Full-stack: MERN, FastAPI, Spring Boot, .NET Core WebAPI, Electron
+- 📱 Cross-platform: **React Native** (Play Store published)
+- ☁️ Cloud: **AWS, Docker, CI/CD pipelines**
+- 🔗 Hands-on: **LangChain, LangGraph, RAG, Groq, Ollama, OpenAI**
+- 🌱 Leveling up: **NestJS, TypeScript, Advanced MLOps**
+
+---
+
 ## 🧭 About Me
 
 ```ts
@@ -37,15 +48,6 @@ const sabari = {
   passion     : "Building products that are fast, intelligent, and actually useful",
 };
 ```
-
-- 🚀 **Incoming** Associate Software Engineer Intern — excited and ready to ship!
-- 🧠 Deep into **AI/ML** — LLM fine-tuning with **LoRA, QLoRA & Unsloth**, CNN fine-tuning for vision tasks
-- 🤖 Building **Agentic AI** systems using **LangGraph**, multi-agent orchestration & tool-calling workflows
-- 🔧 Full-stack at heart: MERN, FastAPI, Spring Boot, .NET Core WebAPI, Electron
-- 📱 Cross-platform experience with **React Native** (Play Store published!)
-- ☁️ Comfortable in cloud: **AWS, Docker, CI/CD pipelines**
-- 🔗 Hands-on with **LangChain, LangGraph, RAG pipelines, Groq, Ollama, OpenAI**
-- 🌱 Currently leveling up: **NestJS, TypeScript, Advanced MLOps**
 
 ---
 
@@ -148,6 +150,14 @@ const sabari = {
 </div>
 
 ---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:sabarim6369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sabarim6369/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://sabarim6369.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sabarim6369&style=for-the-badge&color=00C2FF&labelColor=0D1117" alt="Profile Views"/>
