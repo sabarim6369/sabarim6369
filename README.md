@@ -5,33 +5,46 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sabari+M+👋;Associate+SWE+Intern+%40+Incoming;Full-Stack+%2B+AI%2FML+Developer;Building+things+that+matter." alt="Typing SVG"/>
 
-<div align="center">
-  <!-- Animated wave -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0C2340,100:00C2FF&height=120&section=header"/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sabari+M+👋;Associate+Software+Engineer+Intern+%40+Incoming;Full-Stack+%2B+AI%2FML+Developer;Building+things+that+matter." alt="Typing SVG"/>
-  <br/>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Role-ASSOCIATE%20SOFTWARE%20ENGINEER%20INTERN%20(INCOMING)-00C2FF?style=for-the-badge&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/Based_In-HYDERABAD,%20INDIA-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/Focus-FULL--STACK%20%2B%20AI%2FML-92FE9D?style=for-the-badge&labelColor=0D1117"/>
-  </p>
-  <p align="center">
-    <a href="https://github.com/sabarim6369"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://sabarim6369.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-    <a href="mailto:sabarim6369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/sabarim6369/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  </p>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Associate%20SWE%20Intern%20(Incoming)-00C2FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Based_In-Hyderabad%2C%20India-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI%2FML-92FE9D?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sabarim6369"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://sabarim6369.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:sabarim6369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sabarim6369/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
 </div>
+
+---
+
+- 🚀 **Incoming Associate SWE Intern** — passionate about building impactful products
+- 🧠 Deep into **AI/ML** — LLM fine-tuning (LoRA, QLoRA, Unsloth), CNNs for vision
+- 🤖 Building **Agentic AI**: LangGraph, multi-agent orchestration, tool-calling
 - 🔧 Full-stack: MERN, FastAPI, Spring Boot, .NET Core WebAPI, Electron
+- 📱 Cross-platform: **React Native** (Play Store published)
 - ☁️ Cloud: **AWS, Docker, CI/CD pipelines**
 - 🔗 Hands-on: **LangChain, LangGraph, RAG, Groq, Ollama, OpenAI**
 - 🌱 Leveling up: **NestJS, TypeScript, Advanced MLOps**
 
 ---
+
+## 🧭 About Me
+
+```ts
 const sabari = {
   role        : "Associate Software Engineer Intern (Incoming) 🎉",
+  stack       : ["MERN", "React Native", "FastAPI", "Spring Boot", ".NET Core WebAPI", "Next.js"],
+  ai_ml       : ["LLM Fine-Tuning (LoRA, QLoRA, Unsloth)", "Agentic AI", "RAG Pipelines",
+                 "LangChain", "LangGraph", "CNN Fine-Tuning", "Hugging Face"],
   cloud       : ["AWS", "Docker", "CI/CD", "Jenkins"],
+  currently   : "Building agentic AI systems & mastering LLM fine-tuning techniques",
   passion     : "Building products that are fast, intelligent, and actually useful",
 };
 ```
@@ -53,10 +66,12 @@ const sabari = {
 ### 🖼️ Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
 ### ⚙️ Backend & APIs
 <p>
