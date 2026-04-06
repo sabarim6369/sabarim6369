@@ -3,12 +3,11 @@
 <!-- Animated wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0C2340,100:00C2FF&height=120&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sabari+M+👋;Associate+SWE+Intern+%40+Incoming;Full-Stack+%2B+AI%2FML+Developer;Building+things+that+matter." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sabari+M+👋;Full-Stack+%2B+AI%2FML+Developer;Building+things+that+matter." alt="Typing SVG"/>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Associate%20SWE%20Intern%20(Incoming)-00C2FF?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Based_In-Hyderabad%2C%20India-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI%2FML-92FE9D?style=for-the-badge&labelColor=0D1117"/>
 </p>
